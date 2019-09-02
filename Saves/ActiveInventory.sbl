@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<MyObjectBuilder_SkinInventory xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Character>
+    <unsignedLong>2018084156268549546</unsignedLong>
+    <unsignedLong>2018084156280503346</unsignedLong>
+    <unsignedLong>1974173425915575334</unsignedLong>
+    <unsignedLong>2018084156277177437</unsignedLong>
+  </Character>
+  <Tools>
+    <unsignedLong>1974173425915885625</unsignedLong>
+    <unsignedLong>2018084156281044276</unsignedLong>
+    <unsignedLong>2016958891171514996</unsignedLong>
+    <unsignedLong>2052985785805570971</unsignedLong>
+  </Tools>
+  <Color x="0.9583333" y="-0.7458427" z="-0.450000018" />
+  <Model>Default_Astronaut_Female</Model>
+</MyObjectBuilder_SkinInventory>
